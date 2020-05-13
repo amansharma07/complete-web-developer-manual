@@ -2,6 +2,8 @@
 
 
 All resources and notes from the Complete Web Developer in 2018: Zero to Mastery course
+This is very important for anyone learning the basics of Web Development and hopping into
+some serious development.
 
 ******************************************************************************************
 ## 1.	__Introduction__
